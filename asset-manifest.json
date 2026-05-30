@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/miguelorientalcuisine/static/css/main.82b0e24c.css",
-    "main.js": "/miguelorientalcuisine/static/js/main.51fef1ef.js",
+    "main.js": "/miguelorientalcuisine/static/js/main.7496f5c3.js",
     "static/js/453.18dadde3.chunk.js": "/miguelorientalcuisine/static/js/453.18dadde3.chunk.js",
     "static/media/chef.png": "/miguelorientalcuisine/static/media/chef.228ae9554a554875e7e1.png",
     "index.html": "/miguelorientalcuisine/index.html",
     "main.82b0e24c.css.map": "/miguelorientalcuisine/static/css/main.82b0e24c.css.map",
-    "main.51fef1ef.js.map": "/miguelorientalcuisine/static/js/main.51fef1ef.js.map",
+    "main.7496f5c3.js.map": "/miguelorientalcuisine/static/js/main.7496f5c3.js.map",
     "453.18dadde3.chunk.js.map": "/miguelorientalcuisine/static/js/453.18dadde3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.82b0e24c.css",
-    "static/js/main.51fef1ef.js"
+    "static/js/main.7496f5c3.js"
   ]
 }
