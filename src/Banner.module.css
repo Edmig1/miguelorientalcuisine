@@ -1,0 +1,6 @@
+.banner{
+    background-image: url(/public/chef.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
