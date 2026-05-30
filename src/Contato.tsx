@@ -14,7 +14,7 @@ function Contato({pedido,setPedido}:ContatoProps) {
             name: "Pedido: ",
             pedido: pedido
         };
-        
+
         if(pedido.length !== 0){
             emailjs.send('service_1l8h2lr', 'template_z4rl9yk', templateParams, '92LAkfocnzUYNMbRc')
                 .then((response) => {
