@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/miguelorientalcousine/static/css/main.5a1a8b5d.css",
+    "main.js": "/miguelorientalcousine/static/js/main.93adb5ef.js",
+    "static/js/453.18dadde3.chunk.js": "/miguelorientalcousine/static/js/453.18dadde3.chunk.js",
+    "static/media/chef.png": "/miguelorientalcousine/static/media/chef.228ae9554a554875e7e1.png",
+    "index.html": "/miguelorientalcousine/index.html",
+    "main.5a1a8b5d.css.map": "/miguelorientalcousine/static/css/main.5a1a8b5d.css.map",
+    "main.93adb5ef.js.map": "/miguelorientalcousine/static/js/main.93adb5ef.js.map",
+    "453.18dadde3.chunk.js.map": "/miguelorientalcousine/static/js/453.18dadde3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a1a8b5d.css",
+    "static/js/main.93adb5ef.js"
+  ]
+}
