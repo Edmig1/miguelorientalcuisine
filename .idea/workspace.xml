@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="913b5fa2-7d34-42f5-b5da-39f7c83e037d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bebidas.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bebidas.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entradas.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entradas.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Principais.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principais.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sobremesas.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sobremesas.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +101,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1780112578953</updated>
-      <workItem from="1780112580001" duration="12794000" />
+      <workItem from="1780112580001" duration="13233000" />
     </task>
     <servers />
   </component>
