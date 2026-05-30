@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="913b5fa2-7d34-42f5-b5da-39f7c83e037d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Contato.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contato.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +39,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "npm",
+    "npm.deploy.executor": "Run",
     "npm.npm start.executor": "Run",
     "ts.external.directory.path": "C:\\Users\\Miguel\\Documents\\GitHub\\miguelorientalcuisine\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
@@ -99,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1780112578953</updated>
-      <workItem from="1780112580001" duration="12556000" />
+      <workItem from="1780112580001" duration="12794000" />
     </task>
     <servers />
   </component>
