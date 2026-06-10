@@ -30,7 +30,7 @@ function Contato({pedido,setPedido}:ContatoProps) {
     };
     return (
         <form onSubmit={enviarEmail} className={"w-[80%] flex justify-center h-[10vh] "}>
-            <button type="submit" className={"fixed bottom-5 right-5 md:w-[10%] w-[35%] h-[50px] text-white bg-red-600 px-5 py-3 rounded-xl hover:bg-red-700 transition"}>Enviar Pedido</button>
+            <button type="submit" className={"fixed bottom-5 right-5 md:w-[15%] w-[42%] h-[50px] text-white bg-red-600 px-8 py-3 rounded-xl hover:bg-red-700 transition"}>Enviar Pedido</button>
         </form>
     );
 }

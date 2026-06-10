@@ -10,7 +10,7 @@ import Contato from "./Contato";
 function Produtos() {
     const [pedido, setPedido] = useState<string[]>([]);
     return (
-        <div className={` w-[100vw] flex flex-col gap-20 justify-center items-center py-10 `}>
+        <div className={` w-[100vw] flex flex-col gap-20 justify-center items-center pt-10 `}>
             <Entradas pedido={pedido} setPedido={setPedido}></Entradas>
             <Principais pedido={pedido} setPedido={setPedido}></Principais>
             <Sobremesas pedido={pedido} setPedido={setPedido}></Sobremesas>

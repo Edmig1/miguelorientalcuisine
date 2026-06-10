@@ -6,10 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="913b5fa2-7d34-42f5-b5da-39f7c83e037d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bebidas.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bebidas.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entradas.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entradas.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Principais.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principais.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sobremesas.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sobremesas.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Contato.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contato.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Produtos.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Produtos.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,36 +17,36 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="3EQZ6XQYAviIhkZSRQYu8XH9DQy" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "main",
-    "javascript.preferred.runtime.type.id": "node",
-    "last_opened_file_path": "C:/Users/Miguel/Documents/GitHub/miguelorientalcuisine/public",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "node",
-    "nodejs_package_manager_path": "npm",
-    "npm.deploy.executor": "Run",
-    "npm.npm start.executor": "Run",
-    "ts.external.directory.path": "C:\\Users\\Miguel\\Documents\\GitHub\\miguelorientalcuisine\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Miguel/Documents/GitHub/miguelorientalcuisine/public&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.deploy.executor&quot;: &quot;Run&quot;,
+    &quot;npm.npm start.executor&quot;: &quot;Run&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\Miguel\\Documents\\GitHub\\miguelorientalcuisine\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Miguel\Documents\GitHub\miguelorientalcuisine\public" />
@@ -83,8 +81,8 @@
     </configuration>
     <list>
       <item itemvalue="JavaScript Debug.Debug Application" />
-      <item itemvalue="npm.npm start" />
       <item itemvalue="npm.deploy" />
+      <item itemvalue="npm.npm start" />
     </list>
   </component>
   <component name="SharedIndexes">
@@ -101,7 +99,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1780112578953</updated>
-      <workItem from="1780112580001" duration="13233000" />
+      <workItem from="1780112580001" duration="13386000" />
+      <workItem from="1780126750926" duration="169000" />
+      <workItem from="1780177391351" duration="1793000" />
+      <workItem from="1780455792427" duration="578000" />
+      <workItem from="1780939582258" duration="26000" />
     </task>
     <servers />
   </component>
